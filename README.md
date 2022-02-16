@@ -3,8 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahalakshmee&label=Profile%20views&color=0e75b6&style=flat" alt="mahalakshmee" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahalakshmee" alt="mahalakshmee" /></a> </p>
+
+- 🌱 I’m currently learning **Data Science, Machine Learning, AI and web developemnt**
+
+- 👯 I’m looking to collaborate on **data science projects**
+
+- 📝 I regularly write articles on [https://techinsoftware.wordpress.com/](https://techinsoftware.wordpress.com/)
+
+- 💬 Ask me about **Data science**
+
+- 📫 How to reach me **mahalakshmeeb2020ai@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahalakshmee-b-7b208221a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahalakshmee-b-7b208221a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
