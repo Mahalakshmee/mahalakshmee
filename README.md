@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahalakshmee" alt="mahalakshmee" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, AI and web developemnt**
+- 🌱 I’m currently learning **Data Science, Machine Learning, AI and Cloud**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
 - 📝 I regularly write articles on [https://techinsoftware.wordpress.com/](https://techinsoftware.wordpress.com/)
 
